@@ -1,0 +1,22 @@
+.nav-color{
+	background-color:#1976D2;
+}
+.color-font{
+	color:white;
+}
+#lista tr{
+	font-weight: bold;
+}
+#lista tr .code:hover, .desc:hover, .pr:hover {
+	text-decoration: line-through;
+	background-color:#EF5350;
+	color: #fff;
+}
+
+#resultados ul a.list-group-item:hover{
+	background-color:#E3F2FD;
+
+}
+.colorBluetext{
+	color:#2196F3;
+}
